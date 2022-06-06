@@ -5,10 +5,10 @@ Este es un curso de Laboratorio de Criptografía de la Universidad Diego portale
 Para poder realizar la auditoría se uytilizó Selenium.
 
 # Requisitos
--Python 3
--Selenium
--Google Chrome browser
--Chromedriver with the same version as Google Chrome
+- Python 3
+- Selenium
+- Google Chrome browser
+- Chromedriver with the same version as Google Chrome
 - Pyperclip
 - Xclip or Xsel
 
