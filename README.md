@@ -15,3 +15,17 @@ Para poder realizar la auditoría se uytilizó Selenium.
 Para instalar Pyperclip: pip3 install pyperclip
 Para instalar Xclip or Xsel: apt-get install xclip” or “sudo apt-get install xsel”
 Para descargar el chromedriver se debe ingresar al sigueitne link https://chromedriver.chromium.org/downloads
+
+# Utilización
+
+## Sitio chileno
+
+Ejecutar hito3.py
+
+## Sitio Europeo
+
+Ejecutar hito31.py
+
+## Hito2
+
+Ejecutar hito2.py
