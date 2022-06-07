@@ -1,0 +1,44 @@
+Rut	Nombre	Apellido	Carrera	password
+16036499-8	Andres Alberto	Acevedo Moraga	(2925) Ingenieria Civil en Industrias Forestales	1651
+12925451-3	Patricio Giul	Briones Sanhueza	(2921) Ingenieria Civil	7181
+13380468-4	Emerson Rodo	Bustos Bello	(2925) Ingenieria Civil en Industrias Forestales	3192
+13726783-7	Francisco Javier	Campos Espinoza	(2920) Ingenieria Civil Industrial	1172
+15809184-4	Ricardo Archimed	Carpio Osses	(2925) Ingenieria Civil en Industrias Forestales	2438
+15180194-3	Nelly Yvonne	Castro Rivera	(2915) Bachillerato en Ciencias Naturales y Exactas	4399
+15854938-7	Katherine Loreto	Concha Arteaga	(2925) Ingenieria Civil en Industrias Forestales	2943
+15945679-K	Julio Cesar	Espejo Solis	(2920) Ingenieria Civil Industrial	3483
+15694753-9	Francesca Christ	Fehrmann Galaz	(2915) Bachillerato en Ciencias Naturales y Exactas	4306
+15853012-0	Ivonne Magdalena	Fernandez Suazo	(2920) Ingenieria Civil Industrial	8598
+14208388-4	Macarena Alejand	Figueroa Saavedra	(2921) Ingenieria Civil	9937
+15681024-K	Ximena Alejandra	Fuentes Macaya	(2925) Ingenieria Civil en Industrias Forestales	9917
+14208430-9	Camilo David	Gallegos Coronado	(2920) Ingenieria Civil Industrial	4892
+15855666-9	Juan Felipe	Gallegos Coronado	(2920) Ingenieria Civil Industrial	4218
+15854223-4	Angela Daniela	Garrido Caro	(2920) Ingenieria Civil Industrial	8442
+15174796-5	Cristian Rodrigo	Garrido Gutierrez	(2920) Ingenieria Civil Industrial	5936
+15138926-0	Maria Jose	Gonzalez Contreras	(2925) Ingenieria Civil en Industrias Forestales	7156
+14048330-3	Eduardo Ignacio	Guerrero Troncoso	(2920) Ingenieria Civil Industrial	3653
+15921645-4	Patricio Javier	Guzman Toro	(2920) Ingenieria Civil Industrial	2091
+15183814-6	Claudio Andres	Hinojosa Figueroa	(2921) Ingenieria Civil	8504
+16010726-K	Kerry Anne Ingeb	Leddy Cares	(2921) Ingenieria Civil	9507
+15194078-1	Gonzalo Esteban	Miranda Belmar	(2925) Ingenieria Civil en Industrias Forestales	8535
+15614515-7	Claudio Andres	Montero Nahuelcura	(2925) Ingenieria Civil en Industrias Forestales	1466
+15854153-K	Valentina Isabel	Mulchi Oviedo	(2921) Ingenieria Civil	4017
+13579415-5	Luis Felipe	MuÑoz BascuÑan	(2921) Ingenieria Civil	4604
+16039430-7	Juan Antonio	Navarro Araya	(2920) Ingenieria Civil Industrial	2947
+15855734-7	Javier Felipe	Opazo Sepulveda	(2925) Ingenieria Civil en Industrias Forestales	7922
+15517958-9	Carla Francisca	Palma Villarroel	(2925) Ingenieria Civil en Industrias Forestales	2993
+15193116-2	Jonathan Luis Fe	Peralta Gonzalez	(2920) Ingenieria Civil Industrial	1687
+13384008-7	Luis Alejandro	Perez Cabezas	(2915) Bachillerato en Ciencias Naturales y Exactas	7144
+19456951-3	Andres Alfonso	Perez Gajardo	(2921) Ingenieria Civil	9408
+15182342-4	Daniela Soledad	Ponce Contreras	(2921) Ingenieria Civil	8319
+14210593-4	Boris Leonidas	Rivera Puentes	(2921) Ingenieria Civil	5825
+15177064-9	Alvaro Ricardo	Salgado Espinoza	(2920) Ingenieria Civil Industrial	1252
+16009865-1	Jorge Adrian	Seguel Gonzalez	(2920) Ingenieria Civil Industrial	4851
+15944862-2	Daniela Olivia	Sepulveda Contreras	(2921) Ingenieria Civil	1325
+15853162-3	Claudia Catalina	Soto Candia	(2925) Ingenieria Civil en Industrias Forestales	3683
+15222789-2	Daniel Andres	Tapia Balboa	(2920) Ingenieria Civil Industrial	7789
+15647521-1	Rafael Enrique	Van Rysselberghe Gutierrez	(2921) Ingenieria Civil	7746
+15955423-6	Mauricio Fabian	Venegas MuÑoz	(2921) Ingenieria Civil	4529
+15911772-3	Victor Andres	Vigueras Monsalve	(2920) Ingenieria Civil Industrial	9715
+	Cristobal	Alarcon 		2589
+	Efrain 	Zuñiga		1337
